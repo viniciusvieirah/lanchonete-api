@@ -15,7 +15,7 @@ public class PurchaseServiceImpl implements PurchaseService {
     @Override
     public PurchaseModel calculateLunchs(PurchaseModel purchase) {
         //vai passar por todos os lanches para calcular os preços
-        double totalCost = 0d;
+         Double totalCost = 0d;
 
         for (int i = 0; i < purchase.getLunchs().size(); i++) {
             //validar de cada lanche o ingredientes, para entrar na promoçao
