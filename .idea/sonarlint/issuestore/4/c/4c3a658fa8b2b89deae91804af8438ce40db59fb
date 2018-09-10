@@ -1,0 +1,5 @@
+
+squid:S1319"qThe type of the "lunchs" object should be an interface such as "List" rather than the implementation "ArrayList".(ÃúŞŠ8œö·£Û,
+Ksquid:S1068"-Remove this unused "totalCost" private field.(ÌÙ‡‰8«·£Û,
+squid:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İ„„8œö·£Û,

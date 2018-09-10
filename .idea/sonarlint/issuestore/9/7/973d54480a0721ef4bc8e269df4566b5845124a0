@@ -1,0 +1,5 @@
+
+`squid:S1854"BRemove this useless assignment to local variable "costIngredient".(ŸÝ²š8¾ÿü®Û,
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(àÓ£Ÿûÿÿÿÿ8ÑøÂ¯Û,
+rsquid:UselessImportCheck"BRemove this unused import 'br.com.lanchoneteapi.model.Ingredient'.(ÑÍÕœûÿÿÿÿ8Žíß­Û,
+`squid:S1854P"=Remove this useless assignment to local variable "totalCost".(»†óÔÿÿÿÿÿ8‡ãô®Û,

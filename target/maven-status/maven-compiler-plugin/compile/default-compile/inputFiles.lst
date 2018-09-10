@@ -1,5 +1,12 @@
 /Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/controller/PurchaseController.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/config/CorsConfig.java
 /Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/controller/LunchController.java
-/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/model/Ingredients.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/model/PurchaseModel.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/service/impl/PurchaseServiceImpl.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/service/impl/LunchServiceImpl.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/service/PurchaseService.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/service/LunchService.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/model/IngredientsEnum.java
+/Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/model/Ingredient.java
 /Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/model/Lunch.java
 /Users/vinicius/Documents/projetos/tegra/aimore/lanchonteapi/src/main/java/br/com/lanchoneteapi/LanchoneteApiAplication.java

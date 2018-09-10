@@ -1,12 +1,15 @@
 package br.com.lanchoneteapi.model;
 
 
+import java.util.UUID;
+
 public class Ingredient {
 
 
     private String name ;
     private int qtd ;
     private Double cost ;
+
 
     public Ingredient(){};
 

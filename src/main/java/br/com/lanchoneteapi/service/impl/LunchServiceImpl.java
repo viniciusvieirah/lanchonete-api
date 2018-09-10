@@ -8,6 +8,7 @@ import br.com.lanchoneteapi.service.LunchService;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.UUID;
 
 
 @Service
@@ -39,14 +40,21 @@ public class LunchServiceImpl implements LunchService {
         xEggBacon = assembleLunch(XEGGBACCON);
         lunchs.add(xEggBacon);
 
+        Lunch chosseYouSelf;
+        chosseYouSelf = assembleLunch(CHOSSEYOUSERLF);
+        lunchs.add(chosseYouSelf);
+
 
         return lunchs;
     }
 
     public Lunch assembleLunch(String name){
         Lunch lunch = new Lunch();
+        UUID uuid = UUID.randomUUID(); ;
         ArrayList<Ingredient> ingredients = new ArrayList<Ingredient>();
         lunch.setName(name);
+        lunch.setUuid(uuid);
+
 
         ingredients = assembleIngredient(name);
         lunch.setIngredients(ingredients);

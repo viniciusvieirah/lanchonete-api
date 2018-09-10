@@ -15,12 +15,13 @@ public class PurchaseServiceImpl implements PurchaseService {
     @Override
     public PurchaseModel calculateLunchs(PurchaseModel purchase) {
         //vai passar por todos os lanches para calcular os preços
-
+        double totalCost = 0d;
 
         for (int i = 0; i < purchase.getLunchs().size(); i++) {
             //validar de cada lanche o ingredientes, para entrar na promoçao
             Lunch lunch = purchase.getLunchs().get(i);
             double costLunch = 0d;
+
             boolean discount = false;
 
             for (int j = 0; j <  purchase.getLunchs().get(i).getIngredients().size() ; j++) {
@@ -60,17 +61,20 @@ public class PurchaseServiceImpl implements PurchaseService {
 
 
                 costLunch+=costIngredient;
-
             }
 
             if(discount){
                 costLunch = costLunch - (costLunch*0.1);
             }
 
+            totalCost +=costLunch;
+
             purchase.getLunchs().get(i).setCost(costLunch);
 
 
         }
+
+        purchase.setTotalCost(totalCost);
 
         return purchase;
     }
