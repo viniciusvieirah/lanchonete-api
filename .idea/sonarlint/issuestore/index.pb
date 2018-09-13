@@ -23,3 +23,7 @@ r
 Bsrc/main/java/br/com/lanchoneteapi/controller/LunchController.java,d/1/d184d3943fcc3096dd68784acc4ca43c2a46166e
 o
 ?src/main/java/br/com/lanchoneteapi/LanchoneteApiAplication.java,0/e/0eac34d3d6e0426f471ef08f1bdae5a79c9eb7e5
+i
+9src/main/java/br/com/lanchoneteapi/config/CorsConfig.java,4/3/4323358bc38af2a616c9b266ef5e9acd6a0492c1
+h
+8src/test/java/br/com/lanchoneteapi/LunchServiceTest.java,7/9/79da78566829015aa365ef760adb2c22838dd677

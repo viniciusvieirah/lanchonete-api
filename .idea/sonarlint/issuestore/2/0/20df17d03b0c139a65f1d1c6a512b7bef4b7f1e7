@@ -1,11 +1,12 @@
 
-bsquid:S18540"?Remove this useless assignment to local variable "ingredients".(ü€èÁúÿÿÿÿ8îç¶’Û,
-“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×À„¿şÿÿÿÿ8»ÏÛ,
-vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(´Ñ—ùÿÿÿÿ8º¿ôÛ,
-|squid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü€èÁúÿÿÿÿ8ºÆ°‘Û,
-squid:S1319:"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ï…×À8ÊÌ™‘Û,
-vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¤’§úÿÿÿÿ8³ÚôÛ,
-vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¹­Ú‰üÿÿÿÿ8º¿ôÛ,
-qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(­¤ëÅ8æ°š”Û,
-qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(çÇÑ8“‹ôÛ,
-|squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü€èÁúÿÿÿÿ8îç¶’Û,
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(´Ñ—ùÿÿÿÿ8ÖØ Ü,
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×À„¿şÿÿÿÿ8ÖØ Ü,
+|squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü€èÁúÿÿÿÿ8ÖØ Ü,
+bsquid:S18546"?Remove this useless assignment to local variable "ingredients".(ü€èÁúÿÿÿÿ8ÖØ Ü,
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¹­Ú‰üÿÿÿÿ8ÖØ Ü,
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¤’§úÿÿÿÿ8ÖØ Ü,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(çÇÑ8ÖØ Ü,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(­¤ëÅ8ÖØ Ü,
+|squid:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü€èÁúÿÿÿÿ8ÖØ Ü,
+Msquid:EmptyStatementUsageCheck5"Remove this empty statement.(µ½¶Õ8ÖØ Ü,
+squid:S1319B"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ï…×À8ÖØ Ü,
